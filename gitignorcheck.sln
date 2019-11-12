@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitignorcheck", "gitignorcheck\gitignorcheck.csproj", "{2EF683DB-4163-45FA-8C87-454A88F0BA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF683DB-4163-45FA-8C87-454A88F0BA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF683DB-4163-45FA-8C87-454A88F0BA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF683DB-4163-45FA-8C87-454A88F0BA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF683DB-4163-45FA-8C87-454A88F0BA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
